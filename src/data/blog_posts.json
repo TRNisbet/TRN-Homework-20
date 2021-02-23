@@ -1,0 +1,61 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "blogCategory": "Project",
+            "title": "README Generator",
+            "slug": "readme-generator",
+            "tech": "Node.js",
+            "author": "TRNisbet",
+            "blogImage": "../assets/images/TRN-HW9.png",
+            "featured": true,
+            "smallDesc": "Quickly and easily generate a README file by using a command-line application to generate one.",
+            "blogText": "Create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). Review the [Good README Guide](../../01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md) as a reminder of everything that a high-quality, professional README should contain."
+        },
+        {
+            "id": 2,
+            "blogCategory": "Project",
+            "title": "Weather API",
+            "slug": "weather-api",
+            "tech": "Server Side API's",
+            "author": "TRNisbet",
+            "blogImage": "../assets/images/TRN-HW6.png",
+            "featured": true,
+            "smallDesc": "A 5 day weather forecast pulled from openweathermap.org",
+            "blogText": "Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. The documentation includes a section called 'How to start' that will provide basic setup and usage instructions. Use `localStorage` to store any persistent data."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Project",
+            "title": "Code Quiz",
+            "slug": "code-quiz",
+            "tech": "Web API's",
+            "author": "TRNisbet",
+            "blogImage": "../assets/images/HW4Screenshot.png",
+            "smallDesc": "Timed Quiz with Coding Questions",
+            "blogText": "Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Project",
+            "title": "Work Day Scheduler",
+            "slug": "work-day-scheduler",
+            "tech": "Third-Party APIs",
+            "author": "TRNisbet",
+            "blogImage": "../assets/images/HW5ScreenShot.png",
+            "smallDesc": "A simple application to track events of the day",
+            "blogText": "Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Project",
+            "title": "Budget Tracker",
+            "slug": "budget-tracker",
+            "tech": "PWA",
+            "author": "TRNisbet",
+            "blogImage": "../assets/images/budgetTracker.png",
+            "smallDesc": "Build a budgeting app to keep track of personal finances. You'll utilize IndexedDB, cache API, and Service Workers to provide an offline experience for the application.",
+            "blogText": "Learning Objectives: 1) Identify performance bottlenecks in web applications. 2) Explain how performance can be measured in web applications. 3) Explain the 5 main categories measured in a Lighthouse audit. 4) Optimize CSS, JS, and media assets for performance. 5) Set up webpack in a new front end project. 6)Convert an existing web application to a PWA and add offline functionality."
+        }
+    ]
+}
